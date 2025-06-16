@@ -30,4 +30,6 @@ Please briefly explain who can exploit the vulnerability, and what they gain whe
 every developer that have RCE or installed product with that code on the device .
 
 no root privileges
-do not require any permissions from the user - can be a method to make all the data unaccessable if the code will be in auto start service without any permissions .
+do not require any permissions from the user - can be a method to make all the data unaccessable if the code will be in auto start service without any permissions .![image](https://github.com/user-attachments/assets/bc395092-1883-4d26-b7e3-3df93b7f59bc)
+
+
