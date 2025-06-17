@@ -1,4 +1,5 @@
 # AndroidForkBomb
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/02IdLrzgAs0/0.jpg)](https://www.youtube.com/watch?v=02IdLrzgAs0)
 
 I found when I do such code exactly : (the code is in cpp using ndk - JNI ) :
 ```
